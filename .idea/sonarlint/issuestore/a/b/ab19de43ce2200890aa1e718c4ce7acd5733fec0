@@ -1,0 +1,57 @@
+
+K
+java:S1191"5Use classes from the Java API instead of Sun classes.(Ô¢£©
+W
+java:S1141\"5Extract this nested try block into a separate method.(¡»¢üùÿÿÿÿ8Øº‹¸™/
+Q
+java:S1128	";Remove this unused import 'Service.CreditiNoteServiceImpl'.(áı€ã
+Z
+java:S1128"8Remove this unused import 'java.util.stream.Collectors'.(Óóº´úÿÿÿÿ8—÷æ·™/
+P
+java:S1128"5Remove this unused import 'Service.OrderServiceImpl'.(šŒ„éûÿÿÿÿ
+m
+java:S1128"WRemove this unused import 'com.sun.org.apache.xerces.internal.xs.datatypes.ObjectList'.(Ô¢£©
+V
+java:S1128"@Remove this unused import 'javax.swing.text.html.parser.Entity'.(Û‡Ğ‘
+O
+java:S1128
+"9Remove this unused import 'Service.InvoicingServiceImpl'.(Å»‘¸
+N
+java:S1128"3Remove this unused import 'Repository.ICreditNote'.(ó–Õßøÿÿÿÿ
+H
+java:S1128"2Remove this unused import 'Repository.IInvoicing'.(•İëŠ
+I
+java:S1128".Remove this unused import 'Repository.IOrder'.(¬®Üßûÿÿÿÿ
+€
+java:S1450"cRemove the "creditNoteController" field and declare it as a local variable in the relevant methods.(‘ ‘8öº‹¸™/
+‚
+java:S1450"`Remove the "invoiceController" field and declare it as a local variable in the relevant methods.(À¿şúÿÿÿÿ8øº‹¸™/
+z
+java:S1450"]Remove the "listCreditNote" field and declare it as a local variable in the relevant methods.(£ÿ÷°8øº‹¸™/
+w
+java:S1450"ZRemove the "listInvoice" field and declare it as a local variable in the relevant methods.(äÔ¢³8øº‹¸™/
+t
+java:S1450"XRemove the "listOrder" field and declare it as a local variable in the relevant methods.(Ûƒ¥=8Š»‹¸™/
+w
+java:S1450"ZRemove the "listProduct" field and declare it as a local variable in the relevant methods.(åØİì8»‹¸™/
+q
+java:S1450"TRemove the "mocks" field and declare it as a local variable in the relevant methods.(Óùâÿ8»‹¸™/
+z
+java:S1450"^Remove the "orderController" field and declare it as a local variable in the relevant methods.(”Š—;8»‹¸™/
+Y
+java:S1854L"7Remove this useless assignment to local variable "sn1".(§ßöÚøÿÿÿÿ8Ÿ»‹¸™/
+U	java:S1063"9Replace this use of System.out or System.err by a logger.(¦›åÅ8³»‹¸™/
+U	java:S1064"9Replace this use of System.out or System.err by a logger.(µî¿š8³»‹¸™/
+Z	java:S1065"9Replace this use of System.out or System.err by a logger.(á¡‡®úÿÿÿÿ8³»‹¸™/
+Z	java:S1066"9Replace this use of System.out or System.err by a logger.(«şÂ¶úÿÿÿÿ8³»‹¸™/
+U	java:S1067"9Replace this use of System.out or System.err by a logger.(»ŒÒ8³»‹¸™/
+Z	java:S1068"9Replace this use of System.out or System.err by a logger.(÷ë®Éúÿÿÿÿ8³»‹¸™/
+U	java:S1069"9Replace this use of System.out or System.err by a logger.(Ìó—û8³»‹¸™/
+Z	java:S106;"9Replace this use of System.out or System.err by a logger.(ò…Ñ™øÿÿÿÿ8³»‹¸™/
+{
+java:S2142w"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€8µ»‹¸™/
+Z	java:S106O"9Replace this use of System.out or System.err by a logger.(Òå´´úÿÿÿÿ8Ç»‹¸™/
+Z	java:S106V"9Replace this use of System.out or System.err by a logger.(Ä´îúÿÿÿÿ8Ç»‹¸™/
+U	java:S106_"9Replace this use of System.out or System.err by a logger.(ƒÕÂÃ8É»‹¸™/
+U	java:S106r"9Replace this use of System.out or System.err by a logger.(•ÌÄì8É»‹¸™/
+Z	java:S106u"9Replace this use of System.out or System.err by a logger.(™õ¦¨şÿÿÿÿ8É»‹¸™/

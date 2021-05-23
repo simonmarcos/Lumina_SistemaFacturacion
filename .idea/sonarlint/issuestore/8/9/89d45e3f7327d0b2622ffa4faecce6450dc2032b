@@ -1,0 +1,14 @@
+
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¯»ã§úÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(”ÚÑİüÿÿÿÿ
+D
+java:S2140")Use "java.util.Random.nextInt()" instead.(”ÚÑİüÿÿÿÿ
+Z
+java:S1117"?Rename "listProduct" which hides the field declared at line 14.(…˜Òÿÿÿÿÿ
+a
+java:S1117."?Rename "listProduct" which hides the field declared at line 14.(…˜Òÿÿÿÿÿ8¼ËÑé˜/
+D
+java:S21400")Use "java.util.Random.nextInt()" instead.(»¼®Ğùÿÿÿÿ
+K
+java:S21408")Use "java.util.Random.nextInt()" instead.(’ÉÕÎüÿÿÿÿ8€Ì¦„™/

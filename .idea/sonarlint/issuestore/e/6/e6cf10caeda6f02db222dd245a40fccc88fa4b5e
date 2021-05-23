@@ -1,0 +1,13 @@
+
+o	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(º›°Î
+^
+java:S1226"HIntroduce a new variable instead of reusing the parameter "listInvoice".(ªÝºÍ
+R
+java:S1854""=Remove this useless assignment to local variable "listOrder".(Çô‹K
+S	java:S106"9Replace this use of System.out or System.err by a logger.(ˆáò¬ÿÿÿÿÿ
+N	java:S106#"9Replace this use of System.out or System.err by a logger.(ó²¥ö
+N	java:S106$"9Replace this use of System.out or System.err by a logger.(ÃÕ´ï
+N	java:S106*"9Replace this use of System.out or System.err by a logger.(†£ñ³
+N	java:S106."9Replace this use of System.out or System.err by a logger.(’ýÙ†
+G
+java:S16029",Remove useless curly braces around statement(ô§Û¾þÿÿÿÿ
