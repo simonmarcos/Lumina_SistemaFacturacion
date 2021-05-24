@@ -1,22 +1,18 @@
 import Controller.CreditNoteController;
 import Controller.InvoiceController;
 import Controller.OrderController;
-import Entitiy.*;
+import Entitiy.CreditNote;
+import Entitiy.Invoice;
+import Entitiy.Order;
+import Entitiy.Product;
 import Mocks.Mocks;
-import Repository.ICreditNote;
-import Repository.IInvoicing;
-import Repository.IOrder;
-import Service.CreditiNoteServiceImpl;
-import Service.InvoicingServiceImpl;
-import Service.OrderServiceImpl;
-import com.sun.org.apache.xerces.internal.xs.datatypes.ObjectList;
 
-import javax.swing.text.html.parser.Entity;
 import java.io.IOException;
 import java.nio.file.Files;
 import java.nio.file.Paths;
-import java.util.*;
-import java.util.stream.Collectors;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Scanner;
 
 public class Application {
     private static Mocks mocks;

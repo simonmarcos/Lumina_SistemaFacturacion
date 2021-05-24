@@ -2,14 +2,12 @@ package Service;
 
 import Entitiy.*;
 import Repository.IInvoicing;
-import com.sun.org.apache.xml.internal.security.Init;
 import utils.InitialValue;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Date;
 import java.util.List;
-import java.util.stream.Collectors;
 
 public class InvoicingServiceImpl implements IInvoicing {
 
